@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/emerson/Documents/GitHub/Entra21_Project_EMR_Deploy_API_2022"/>
 			<item value="D:\ProWay\Entra21_Project_EMR_Spring_2022\emr"/>
 		</list>
 		<list key="projectNameTemplate">
