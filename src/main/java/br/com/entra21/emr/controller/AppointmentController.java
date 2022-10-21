@@ -59,7 +59,7 @@ public class AppointmentController {
 		return response;
 	}
 
-	@GetMapping("/appointment/resume")
+	@GetMapping("/resume")
 	@ResponseStatus(HttpStatus.OK)
 	public List<AppointmentList> listResume() {
 		List<Appointment> response = appointmentRepository.findAll();
