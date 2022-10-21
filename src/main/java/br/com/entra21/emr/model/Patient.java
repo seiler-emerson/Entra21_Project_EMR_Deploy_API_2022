@@ -26,7 +26,6 @@ public class Patient extends MaturidadeNivel3Richardson {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Integer id;
 	private String name;
-	@CPF
 	private String cpf;
 	private String nameMother;
 	private String nameFather;
