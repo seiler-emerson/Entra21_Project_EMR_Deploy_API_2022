@@ -19,7 +19,7 @@ import br.com.entra21.emr.repository.IAppointmentRepository;
 
 @RestController
 @CrossOrigin(origins = "*")
-@RequestMapping("/resumeappointment")
+@RequestMapping("/resume")
 public class AppointmentResumeController {
 
 	@Autowired
